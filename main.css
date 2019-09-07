@@ -43,8 +43,8 @@ header .navbar{
     top: 0;
     z-index: 100;
     box-shadow: 0 4px 12px 0 rgb(0, 0, 0, 0.05);
-    -webkit-box-shadow: 0 4px 12px 0 rgb(0, 0, 0, 0.05);
-    -ms-box-shadow: 0 4px 12px 0 rgb(0, 0, 0, 0.05);
+    -webkit-box-shadow: 0 3px 13px 0 rgb(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 3px 13px 0 rgb(0, 0, 0, 0.1);
 }
 
 header .navbar .left_section{
